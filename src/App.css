@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: rgb(60, 204, 156);
+}
+
+.image{
+  width:50%;
+  border-radius: 5%;
 }
 
 .App-logo {

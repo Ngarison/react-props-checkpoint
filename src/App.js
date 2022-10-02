@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <Profile  fullName="Ngarison" handleName={handleName} bio="test"  profession="ingé" >
-        <img src='./profil.jpg' alt='Mon Profil'/>
+       <img className='image' src='./profil.jpg' alt='Mon Profil'/>
       </Profile>
     </div>
   );
